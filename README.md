@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server on terminal:
 
 ```bash
 npm run dev
@@ -15,6 +15,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+This app generates gerking behaviors from a request, the user can select the number of behaviors to be generated.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
